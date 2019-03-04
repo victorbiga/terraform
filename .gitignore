@@ -1,0 +1,2 @@
+ec2/terraform.tfvars
+/ec2/.terraform/*
